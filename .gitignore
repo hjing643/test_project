@@ -1,0 +1,20 @@
+# 忽略构建输出
+build/
+*.o
+*.a
+*.so
+*.exe
+
+# 忽略 IDE 配置文件
+.idea/
+.vscode/
+
+# 忽略编译生成的文件
+*.d
+*.ilk
+*.pdb
+*.sln
+*.vcxproj*
+
+# 忽略日志文件
+*.log
