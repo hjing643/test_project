@@ -1,7 +1,7 @@
-#include <iostream>
-#include "test_switch_cpu.h"
+#include <stdio.h>
+//#include "test_switch_cpu.h"
 int main()
 {
-	std::cout<<"test"<<std::endl;
+	printf("hello world/n");
 	return 0;
 }
